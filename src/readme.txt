@@ -1,0 +1,1 @@
+Configure file main-template.cpp and save as main.cpp.
