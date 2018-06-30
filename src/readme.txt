@@ -1,1 +1,1 @@
-Configure file main-template.cpp and save as main.cpp.
+Configure file main.cpp.txt and save as main.cpp.
